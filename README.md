@@ -11,24 +11,26 @@ Information Technology student specializing in Cybersecurity at King Saud Univer
 - **Version Control:** Git, GitHub
 - **Design:** Figma, UI/UX Design
 
-## Projects
+## Academic & Team Projects
 
-My GitHub includes academic and team projects in:
+These repositories include collaborative academic projects that I contributed to during my Information Technology studies:
 
-- 🌐 Full-Stack Web Development
-- ☕ Java & Network Programming
-- 🔐 Cybersecurity
-- 🗄️ Database Development
-- 🎨 UI/UX Design
+- **Wellness** — Full-stack health and fitness web platform
+- **Lingo** — Java client-server networking project
+- **IT326** — Machine learning project for breast cancer classification
+- **grow-play** — Web development project
+- **web2** — PHP web development project
+- **photo-management** — Java project
+
 
 ## Certifications & Training
 
-- IBM SkillsBuild — Vulnerability Management
-- IBM SkillsBuild — Governance, Risk, Compliance, and Data Privacy
-- IBM SkillsBuild — Artificial Intelligence Fundamentals
-- Google.org Cybersecurity Seminars — King Saud University
+- **IBM SkillsBuild** — Vulnerability Management
+- **IBM SkillsBuild** — Governance, Risk, Compliance, and Data Privacy
+- **IBM SkillsBuild** — Artificial Intelligence Fundamentals
+- **Google.org Cybersecurity Seminars** — King Saud University
 
 ## Connect with Me
 
-- LinkedIn: https://linkedin.com/in/marah-basel-aa3699263
-- Email: bmarah744@gmail.com
+- **LinkedIn:** https://linkedin.com/in/marah-basel-aa3699263
+- **Email:** bmarah744@gmail.com
